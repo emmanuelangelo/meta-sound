@@ -6,7 +6,7 @@ export default function Logo() {
         <a href="/" className="logo-link no-outline">
             <div className='logo'>
                 <svg viewBox="0 0 1134 340" className="spotify-logo">
-                    <title>Spotify</title>
+                    <title>Stream Joy</title>
                     <path fill="currentColor" d="M8 171c0 92 76 168 168 
                     168s168-76 168-168S268 4 176 4 8 79 8 171zm230 
                     78c-39-24-89-30-147-17-14 2-16-18-4-20 64-15 118-8 162 

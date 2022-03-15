@@ -11,16 +11,16 @@ export default function CTAbanner() {
                     letterSpacing: '.1em',
                     textTransform: 'uppercase',
                     marginBottom: '4px'
-                }}>Meta Sound</h2>
+                }}>Strram Joy</h2>
                 <h3 style={{
                     fontSize: '16px',
                     fontWeight: '500',
                     lineHeight: '24px',
                     letterSpacing: 'normal',
                     textTransform: 'none'
-                }}>Pure Demo, for Meta Sound, Music in the meta verse.</h3>
+                }}>Pure Demo, for Stream Joy, Music in the meta verse.</h3>
             </div>
-            <PromptButton to='https://spotify.com/signup' name='Sign up free' styleName='CTA'/>
+            <PromptButton to='/' name='Sign up free' styleName='CTA'/>
         </div>
     )
 }
